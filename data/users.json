@@ -1,0 +1,75 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "firstName": "Terry",
+        "lastName": "Medhurst",
+        "age": 50,
+        "email": "atuny0@sohu.com"
+      },
+      {
+        "id": 2,
+        "firstName": "Sheldon",
+        "lastName": "Quigley",
+        "age": 28,
+        "email": "hbingley1@plala.or.jp"
+      },
+      {
+        "id": 3,
+        "firstName": "Terrill",
+        "lastName": "Hills",
+        "age": 38,
+        "email": "rshawe2@51.la"
+      },
+      {
+        "id": 4,
+        "firstName": "Miles",
+        "lastName": "Cummerata",
+        "age": 49,
+        "email": "yraigatt3@nature.com"
+      },
+      {
+        "id": 5,
+        "firstName": "Mavis",
+        "lastName": "Schultz",
+        "age": 38,
+        "email": "kmeus4@upenn.edu"
+      },
+      {
+        "id": 6,
+        "firstName": "Alison",
+        "lastName": "Reichert",
+        "age": 21,
+        "email": "jtreleven5@nhs.uk"
+      },
+      {
+        "id": 7,
+        "firstName": "Oleta",
+        "lastName": "Abbott",
+        "age": 31,
+        "email": "dpettegre6@columbia.edu"
+      },
+      {
+        "id": 8,
+        "firstName": "Ewell",
+        "lastName": "Mueller",
+        "age": 29,
+        "email": "ggude7@chron.com"
+      },
+      {
+        "id": 9,
+        "firstName": "Demetrius",
+        "lastName": "Corkery",
+        "age": 22,
+        "email": "mperigo8@dayrep.com"
+      },
+      {
+        "id": 10,
+        "firstName": "Eleanora",
+        "lastName": "Price",
+        "age": 37,
+        "email": "bpinnock9@latimes.com"
+      }
+    ]
+  }
+  
