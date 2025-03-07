@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Database User</h1>
+    </header>
+    
+    <main>
+        <section class="search-section">
+            <h2>Cari Pengguna</h2>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Cari berdasarkan nama atau email...">
+                <button id="searchButton">Cari</button>
+            </div>
+        </section>
+
+        <section class="api-section">
+            <div class="endpoint-container">
+                <div class="endpoint">
+                    <h3>Tampilkan semua user</h3>
+                    <button class="try-btn" data-endpoint="/api/users">Coba</button>
+                </div>
+                
+                <div class="endpoint">
+                    <h3>GET Pengguna berdasarkan ID</h3>
+                    <div class="endpoint-input">
+                        <input type="number" id="userId" placeholder="Masukkan ID" min="1">
+                        <button class="try-btn" id="getUserById">Coba</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="result-section">
+            <h2>Hasil</h2>
+            <div class="result-container">
+                <pre id="resultArea">Hasil akan ditampilkan di sini...</pre>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
